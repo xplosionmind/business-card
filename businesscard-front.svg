@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="businesscard-front.svg"
+   inkscape:version="1.1-dev (60faa23c, 2020-06-06)"
+   id="svg6"
+   version="1.1"
+   viewBox="0 0 84.999998 55.000001"
+   height="5.5cm"
+   width="8.5cm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect16"
+       height="65.562393"
+       width="176.28033"
+       y="128.51965"
+       x="156.30769" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     units="cm"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="560"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1"
+     bordercolor="#de2e8e"
+     pagecolor="#000000"
+     id="base" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="-0.16912302"
+       x="-0.05636714"
+       height="55.169125"
+       width="85.056366"
+       id="rect20"
+       style="fill:#fcc920;stroke-width:0.529165" />
+    <text
+       transform="matrix(0.18100107,0,0,0.18100107,-2.7659092,-1.0493929)"
+       style="font-weight:bold;font-size:52.91669999999999874px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold';white-space:pre;shape-inside:url(#rect16);fill:#000000;stroke-width:2.92356"
+       id="text14"
+       xml:space="preserve" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.62020000000000053px;font-family:Inter;-inkscape-font-specification:Inter;text-anchor:middle;fill:#ffffff;stroke-width:0.529165"
+       x="42.614925"
+       y="30.710768"
+       id="text892"><tspan
+         sodipodi:role="line"
+         id="tspan890"
+         style="font-weight:800;-inkscape-font-specification:'Inter Ultra-Bold';fill:#000000"
+         x="42.614925"
+         y="30.710768">tommi</tspan></text>
+  </g>
+</svg>
