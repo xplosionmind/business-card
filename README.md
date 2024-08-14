@@ -20,6 +20,10 @@ All files in this repository are Inkscape SVGs: they can be opened with [Inkscap
 - [Libqrencode](https://fukuchi.org/works/qrencode/), to generate the [vCard](https://en.wikipedia.org/wiki/VCard 'vCard on Wikipedia') QR code.
 - I honestly cannot remember the icon pack I took the icons from four years ago, when I sketched the first version. I will give proper acknowledgement as soon as I figured out what I used.
 
+## 👾 Source
+
+The source files of the card are hosted in [a Codeberg repository](https://codeberg.org/tommi/card 'tommi/card on Codeberg'), [mirrored on GitHub](https://github.com/xplosionmind/business-card 'xplosionmind/business-card on GitHub')
+
 ## ©️ License
 
 This whole repository is licensed under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/ 'CC0 1.0 Universal – Deed').
